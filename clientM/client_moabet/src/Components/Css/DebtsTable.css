@@ -1,0 +1,5 @@
+.table_debts, th, td{
+    text-align: center;
+    border: 3px solid black; 
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}

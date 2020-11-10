@@ -1,0 +1,20 @@
+.sm{
+    background-color: gray;
+    display: flex;
+    flex-flow: wrap column;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.buttons{
+    display: flex;
+    flex-flow: wrap row;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+.gallery{
+    min-height: 444px;
+}

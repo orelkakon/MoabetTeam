@@ -1,0 +1,22 @@
+label{
+    font-size: 20px;
+    color: white
+}
+.wl{
+    background-color: gray;
+    display: flex;
+    flex-flow: 'row';
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    height: 100%;
+}
+
+.spin_button{
+    width: 100%;
+}
+
+#line1{
+    display: flex;
+    flex-direction: column;
+}

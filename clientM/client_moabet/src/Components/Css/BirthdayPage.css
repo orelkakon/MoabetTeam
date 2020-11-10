@@ -1,0 +1,8 @@
+.bd {
+    background-color: gray;
+    display: flex;
+    flex-flow: 'row';
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}

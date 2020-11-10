@@ -1,0 +1,8 @@
+.rs {
+    background-color: gray;
+    display: flex;
+    flex-flow: row-reverse;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: flex-start;
+}
